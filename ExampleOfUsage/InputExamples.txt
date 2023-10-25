@@ -1,0 +1,22 @@
+For Circle [red yes 10]=>DEFAULT
+[black no 20]
+[black no]
+[black 20]
+[no 20]
+[black]
+[no]
+[20]
+
+
+For Rectangle [red yes 50 50]=>DEFAULT
+[black no 20 10]
+[black no 20]
+[black 20 10]
+[black 20]
+[no 20 10]
+[no 20]
+[20]
+[20 10]
+[black]
+[no]
+[20]
